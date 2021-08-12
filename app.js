@@ -7,9 +7,9 @@ const http = new EasyHTTP
 
 // User data
 const data = {
-  name: 'Nanut Mohexc',
-  username: "mohexc",
-  email: 'mohexc@gmail.com'
+  name: '',
+  username: "",
+  email: ''
 }
 
 // Create Post
